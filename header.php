@@ -1,7 +1,7 @@
 <?php //include this file in every page!
 ?>
 
-<head>
+<html><head>
   <meta charset="utf-8">
   <style>
     articleheader {font-size: big; color: blue}
